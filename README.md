@@ -1,7 +1,6 @@
 
-# :book: [ Image-Classification-App-with-Custom-TensorFlow-Model] <a name="about-project"></a>
-> This project is called # Image-Classification-App-with-Custom-TensorFlow-Model which is developed for the purpose of identfiying locust from its surrounding
- and from other insects. It learns the machine using deep learning concept  with the use of neural network  CNN algorihtm and transfer learning, then deploy the learned model to mobile app by exporting it to TensorFlow Lite.
+# :book: [ Tackling Locust Infestation Using Light Computer Vision Models and embedded IOT Systems] <a name="about-project"></a>
+> Developed an affordable IoT-based system in collaboration with the Tigray Agricultural Research Institute to help farmers in Northern Ethiopia combat locust infestations. The system provided early warnings via a mobile app and SMS, enabling timely action, and integrated IoT-enabled automated biopesticide sprayers to enhance pest control efficiency.
 > 
 ## :hammer_and_wrench: Built With <a name="built-with"> using Html and CSS</a>
 ### Tech Stack <a name="tech-stack"></a>
