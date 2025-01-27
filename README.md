@@ -57,40 +57,6 @@ Install this project with:git and npm install
 - check the accuracy of the model
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
-## :busts_in_silhouette: Authors <a name="authors"></a>
-
-:bust_in_silhouette: **Betel Andarge**
-
-- GitHub: [Betel Andarge](https://github.com/beteland123)
-- Linkedin-[Betel Andarge](https://www.linkedin.com/in/betel-andarge-1b9446223)
-## :telescope: Future Features <a name="future-features"></a>
-
-- Add another class to make more classifyer for insects too instead of being binary one as it now
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- CONTRIBUTING -->
-
-## :handshake: Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- SUPPORT -->
-
-## :star:️ Show your support <a name="support"></a>
-
-If you like this project email me through my email address...
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- ACKNOWLEDGEMENTS -->
-
-## :pray: Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank my family
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
 
 ## :memo: License <a name="license"></a>
