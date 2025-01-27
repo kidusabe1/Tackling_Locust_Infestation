@@ -1,21 +1,4 @@
-# :green_book: Table of Contents
-: Table of Contents
-- [:book: About the Project](#about-project)
-  - [:hammer_and_wrench: Built With](#built-with)
-   - [Key Features](#key-features)
-  - [:rocket: Live Demo](#live-demo)
-- [:computer: Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [:busts_in_silhouette: Authors](#authors)
-- [:telescope: Future Features](#future-features)
-- [:handshake: Contributing](#contributing)
-- [:star:️ Show your support](#support)
-- [:pray: Acknowledgements](#acknowledgements)
-- [:memo: License](#license)
+
 # :book: [ Image-Classification-App-with-Custom-TensorFlow-Model] <a name="about-project"></a>
 > This project is called # Image-Classification-App-with-Custom-TensorFlow-Model which is developed for the purpose of identfiying locust from its surrounding
  and from other insects. It learns the machine using deep learning concept  with the use of neural network  CNN algorihtm and transfer learning, then deploy the learned model to mobile app by exporting it to TensorFlow Lite.
